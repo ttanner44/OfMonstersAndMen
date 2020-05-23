@@ -1,8 +1,6 @@
-# OfMonstersAndMen
-Bootcamp Project #1 - Group 5
-Satellite Flyover
+# Satellite Flyover
 
-Group Member:
+Developers:
 _ Anitha Venkatesan
 _ Tim Tanner
 _ Gene Shaver
